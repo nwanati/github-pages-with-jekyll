@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "FIO- Figuring It Out"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Just a blog about a simple guy figuring it out as he goes through this journey called life.
